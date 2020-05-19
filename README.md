@@ -1,2 +1,2 @@
 # 520LoveFunction
-Love Function Animation
+参考自国科大王凯的 MATLAB 代码
